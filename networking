@@ -1,0 +1,20 @@
+pen Systems Interconnection model (OSI model)
+
+LAYERS:
+1 2 3 4 5 6 7
+P D N T S P A <-
+
+
+:::::::::::::::::::::::::::
+
+Response codes Received from a Web Application?
+
+1xx – Informational responses
+2xx – Success
+3xx – Redirection
+4xx – Client-side error
+5xx – Server-side error
+HTTP Status Codes:
+https://www.restapitutorial.com/httpstatuscodes.html
+
+=========================================================
